@@ -1,4 +1,4 @@
-# Lab 13
+# Week 10 Mon Lab
 
 ## Directions
 
@@ -65,3 +65,4 @@ find: error, unsuccessful search, target key not found
 Number of key comparisons: 6
 Enter a key to search my dictionary (or -1 to stop): -1
 ```
+
